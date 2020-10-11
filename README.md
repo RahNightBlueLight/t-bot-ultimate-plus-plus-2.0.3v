@@ -3,14 +3,23 @@
 it alpha test for Tbolt ultimate Plus + update 0.0.1v :  
 -
 add mini map 
+-
 add character customization 
+-
 add optimization plus + 
+-
 add plugin plus + 
+-
 add modpacks plus +
+-
 add resource packs plus + 
+-
 add lagg plus + 
+-
 add gui plus +
+-
 add rtx ultimate texture pack
+-
 add more 
 -
 it by THE Proper RahStudio Eentertainment and ECO RahNight_BlueLight in twittch.tv and twitter and instagram 
@@ -36,8 +45,12 @@ apparently something went wrong with the file and the thing I thought I had ever
 and much more coming soon.  
 -
 credits 
+-
 -team worldedit mod 
+-
 -team morefood2 mod 
+-
 -team tails mod 
+-
 -team furniture mod 
 -
