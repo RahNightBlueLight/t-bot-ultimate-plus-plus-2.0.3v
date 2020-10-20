@@ -1,6 +1,6 @@
-# t-bot ultimate plus plus 0.0.1v
+# t-bot ultimate plus plus 2.0.3v
 -
-it alpha test for Tbolt ultimate Plus + update 0.0.1v :  
+it alpha test for Tbolt ultimate Plus + update 2.0.3v :  
 -
 add mini map 
 -
