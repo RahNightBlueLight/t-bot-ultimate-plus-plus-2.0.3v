@@ -1,0 +1,1 @@
+this load resourcepacks to java and bedrock
